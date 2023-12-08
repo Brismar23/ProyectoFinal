@@ -15,7 +15,7 @@ import java.io.IOException; // Excepciones
 
 public class GenNombres {    
     /**
-     * Metodo que genera aleatoreamente la edad de los alumnos de entre 18 y 28 años
+     * Metodo que genera aleatoreamente la edad de los alumnos de entre 18 y 27 años
      * @return regresa la edad de los alumnos
      */
     public static Integer generadorEdad(){
