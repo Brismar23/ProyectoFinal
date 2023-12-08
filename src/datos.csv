@@ -1,0 +1,1001 @@
+No Inscripcion,NoCuenta,Nombre,Apellido Paterno,Apellido Materno,Edad,Semestre,Promedio,Direccion
+0001,314373264,null,null,null,19,1,9.5,15620	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Aeropuerto	Mexico (Lic. Benito JuArez)
+0002,314313933,null,null,null,18,1,9.33,15970	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	AeronAutica Militar
+0003,314135939,null,null,null,18,2,9.27,7950	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Pueblo	San Juan de Aragon
+0004,314785622,null,null,null,18,1,9,9856	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Ampliacion Veracruzana
+0005,314403954,null,null,null,18,1,9,13219	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Las Arboledas
+0006,314592355,null,null,null,18,1,9,9230	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Alvaro Obregon
+0007,314313077,null,null,null,18,1,9,14630	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Villa Tlalpan
+0008,314503331,null,null,null,18,1,9,15350	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Ampliacion Penitenciaria
+0009,314098026,null,null,null,18,1,9,15500	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Moctezuma 1a Seccion
+0010,314631075,null,null,null,20,6,8.84,7960	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Fernando Casas AlemAn
+0011,314692812,null,null,null,19,1,8.83,13419	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Ampliacion Jose Lopez Portillo
+0012,314681601,null,null,null,18,1,8.83,1650	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	2o Reacomodo Tlacuitlapa
+0013,314483387,null,null,null,18,1,8.83,1250	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Arbol
+0014,314302402,null,null,null,20,4,8.82,11200	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas de Sotelo
+0015,314873184,null,null,null,19,3,8.76,16020	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	San Juan Tepepan
+0016,314449803,null,null,null,18,2,8.73,1510	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Los Cedros
+0017,314875213,null,null,null,19,2,8.73,1548	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Villa Progresista
+0018,314058794,null,null,null,18,1,8.67,9860	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Casa Blanca
+0019,314130561,null,null,null,18,1,8.67,9900	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	San Lorenzo
+0020,314863127,null,null,null,19,1,8.67,1260	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Calzada Jalalpa
+0021,314179408,null,null,null,20,3,8.65,9070	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Granjas de San Antonio
+0022,314693518,null,null,null,19,2,8.64,8620	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Barrio	Los Reyes
+0023,314451667,null,null,null,19,2,8.64,2500	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Unidad CuitlAhuac
+0024,314005295,null,null,null,18,2,8.64,13270	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Del Mar
+0025,314818830,null,null,null,18,2,8.64,1790	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de los Angeles del Pueblo Tetelpan
+0026,314636973,null,null,null,27,9,8.62,10640	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Pueblo Nuevo Bajo
+0027,314244566,null,null,null,25,8,8.59,9060	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Escuadron 201
+0028,314577378,null,null,null,18,2,8.55,16000	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San Antonio
+0029,314428958,null,null,null,18,2,8.55,16029	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Ampliacion Tepepan
+0030,314172899,null,null,null,20,4,8.55,11250	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	10 de Abril
+0031,314905222,null,null,null,18,2,8.55,13090	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Quiahuatla
+0032,314955726,null,null,null,20,4,8.55,13219	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Ampliacion Los Olivos
+0033,314506467,null,null,null,19,2,8.55,14030	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Isidro Fabela
+0034,314486273,null,null,null,23,8,8.55,7739	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Planetario Lindavista
+0035,314420810,null,null,null,22,10,8.54,16429	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Rancho Tejomulco
+0036,314837347,null,null,null,26,7,8.53,8910	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Barrio	Santa Cruz
+0037,314098957,null,null,null,21,8,8.52,1820	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ejido San Mateo
+0038,314718596,null,null,null,21,5,8.52,16010	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Las Peritas
+0039,314673618,null,null,null,24,9,8.5,8300	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Santa Anita
+0040,314987903,null,null,null,20,4,8.5,10010	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	San Bartolo Ameyalco
+0041,314414587,null,null,null,18,1,8.5,9270	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Colonial Iztapalapa
+0042,314620954,null,null,null,19,1,8.5,5330	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Lomas de Memetla
+0043,314950500,null,null,null,20,6,8.5,13640	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	San Miguel
+0044,314190354,null,null,null,19,4,8.5,14100	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Pedregal de San NicolAs 2A Seccion
+0045,314564438,null,null,null,18,1,8.5,4250	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Paseos de Taxqueña
+0046,314489732,null,null,null,22,7,8.5,4480	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM CROC
+0047,314013825,null,null,null,27,8,8.48,9696	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Miravalles
+0048,314139717,null,null,null,20,3,8.47,9300	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Guadalupe del Moral
+0049,314132823,null,null,null,20,4,8.45,9210	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Tepalcates
+0050,314365280,null,null,null,21,8,8.45,1645	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ponciano Arriaga
+0051,314527712,null,null,null,19,2,8.45,15840	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Sevilla
+0052,314256599,null,null,null,19,2,8.45,2440	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Providencia
+0053,314614206,null,null,null,20,4,8.45,4700	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Pedregal de Carrasco
+0054,314528693,null,null,null,27,8,8.43,9700	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Desarrollo Urbano Quetzalcoatl
+0055,314258784,null,null,null,22,7,8.42,8240	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Barrio	Santiago Norte
+0056,314631538,null,null,null,27,9,8.42,8760	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Los Picos de Iztacalco Seccion 1B
+0057,314854095,null,null,null,22,9,8.42,4360	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Copilco El Alto
+0058,314966009,null,null,null,23,9,8.42,4870	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Espartaco
+0059,314145247,null,null,null,19,3,8.41,1650	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Ruedo
+0060,314546451,null,null,null,20,4,8.41,16010	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	San Bartolo El Chico
+0061,314143081,null,null,null,25,8,8.41,16030	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Potrero de San Bernardino
+0062,314498261,null,null,null,25,8,8.41,16100	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Pueblo	Santa Cruz Xochitepec
+0063,314710055,null,null,null,20,4,8.41,4930	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Santa Cecilia
+0064,314477740,null,null,null,24,10,8.4,1720	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de Guadalupe
+0065,314824801,null,null,null,21,7,8.39,7969	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Juan de Aragon I Seccion
+0066,314852825,null,null,null,21,7,8.39,8720	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Gabriel Ramos MillAn Seccion Tlacotal
+0067,314487415,null,null,null,25,7,8.39,2930	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Liberacion
+0068,314813029,null,null,null,25,7,8.39,2320	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	San Andres de las Salinas
+0069,314737219,null,null,null,26,7,8.39,4490	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Canal Nacional
+0070,314951040,null,null,null,21,7,8.39,4909	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion IX-A
+0071,314194045,null,null,null,23,7,8.39,7755	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Lindavista Vallejo II Seccion
+0072,314675032,null,null,null,26,7,8.39,7838	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Gertrudis SAnchez 3a Seccion
+0073,314142981,null,null,null,25,8,8.39,16083	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	Caltongo
+0074,314331944,null,null,null,21,8,8.39,8760	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Los Picos de Iztacalco Seccion 2A
+0075,314386555,null,null,null,26,8,8.39,15510	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Pensador Mexicano
+0076,314880127,null,null,null,21,6,8.38,16080	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San Esteban
+0077,314226189,null,null,null,27,9,8.38,4440	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion II
+0078,314478628,null,null,null,21,5,8.37,2410	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Prados del Rosario
+0079,314114373,null,null,null,26,7,8.37,15900	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Jardín Balbuena
+0080,314241142,null,null,null,22,7,8.37,10630	Ciudad de Mexico	La Magdalena Contreras		Campamento	El Ocotal
+0081,314128192,null,null,null,24,7,8.37,1376	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Santa Fe
+0082,314061820,null,null,null,21,8,8.36,7960	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ex Escuela de Tiro
+0083,314923724,null,null,null,18,2,8.36,11210	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Pueblo	San Lorenzo Tlaltenango
+0084,314031836,null,null,null,18,2,8.36,13360	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Santiago Sur
+0085,314717626,null,null,null,19,2,8.36,9080	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Cacama
+0086,314357052,null,null,null,20,4,8.36,5500	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Contadero
+0087,314419917,null,null,null,18,2,8.36,1230	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Piru Santa Fe
+0088,314073859,null,null,null,19,4,8.36,1278	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Desarrollo Urbano
+0089,314458208,null,null,null,18,2,8.36,1470	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Barrio	Alfalfar
+0090,314104881,null,null,null,18,2,8.36,1560	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Canutillo
+0091,314426488,null,null,null,18,2,8.36,7580	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ampliacion Casas AlemAn
+0092,314985804,null,null,null,25,9,8.35,9090	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Heroes de Churubusco
+0093,314227000,null,null,null,25,9,8.35,14630	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Pueblo	Chimalcoyoc
+0094,314972730,null,null,null,22,9,8.35,1760	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Flor de María
+0095,314542091,null,null,null,19,3,8.35,15400	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Romero Rubio
+0096,314950716,null,null,null,20,6,8.34,15280	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Penitenciaria
+0097,314166688,null,null,null,21,6,8.34,4380	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Pueblo	La Candelaria
+0098,314646409,null,null,null,23,7,8.34,1630	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Los Juristas
+0099,314866853,null,null,null,22,7,8.34,6500	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Cuauhtemoc
+0100,314710607,null,null,null,22,7,8.34,1260	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Liberacion Proletaria
+0101,314042645,null,null,null,24,9,8.33,16200	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Pueblo	Santiago Tepalcatlalpan
+0102,314937888,null,null,null,18,1,8.33,11260	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Mexico Nuevo
+0103,314976434,null,null,null,19,1,8.33,9850	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Santa María del Monte
+0104,314767345,null,null,null,18,1,8.33,13420	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Selene
+0105,314481701,null,null,null,18,1,8.33,9280	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Jacarandas
+0106,314451349,null,null,null,22,9,8.33,1650	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ampliacion Tlacuitlapa
+0107,314552481,null,null,null,18,1,8.33,15330	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Tres Mosqueteros
+0108,314131906,null,null,null,18,1,8.33,14090	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	La Joya
+0109,314485136,null,null,null,19,1,8.33,4830	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Los Cipreses
+0110,314752425,null,null,null,24,10,8.32,1280	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Joya
+0111,314111509,null,null,null,19,4,8.32,11100	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Equipamiento	Bosque de Chapultepec II Seccion
+0112,314127715,null,null,null,20,4,8.32,9849	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Ampliacion Los Reyes
+0113,314288058,null,null,null,24,8,8.32,10369	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Tierra Unida
+0114,314193439,null,null,null,24,8,8.32,1780	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Tizampampano del Pueblo Tetelpan
+0115,314764380,null,null,null,26,8,8.32,2050	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Libertad
+0116,314533783,null,null,null,20,4,8.32,1500	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Pueblo	Santa Lucía
+0117,314582547,null,null,null,26,7,8.32,9359	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Eva SAmano de Lopez Mateos
+0118,314768121,null,null,null,26,7,8.32,14900	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Pueblo	Parres El Guarda
+0119,314386461,null,null,null,26,9,8.31,2800	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Nueva Santa María
+0120,314899321,null,null,null,21,6,8.31,9360	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	San Miguel
+0121,314836946,null,null,null,26,9,8.31,15230	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Emilio Carranza
+0122,314177163,null,null,null,22,9,8.31,2070	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Barrio	Nextengo
+0123,314634645,null,null,null,27,10,8.3,1588	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Tarango
+0124,314463740,null,null,null,25,8,8.3,1730	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de las Aguilas
+0125,314631167,null,null,null,23,8,8.3,2460	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	La Preciosa
+0126,314023978,null,null,null,27,8,8.3,9705	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Degollado - Mexicatlalli
+0127,314024567,null,null,null,19,3,8.29,16080	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	La Santísima
+0128,314426895,null,null,null,20,3,8.29,9890	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Lomas Estrella
+0129,314351801,null,null,null,19,3,8.29,9208	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Chinampac de JuArez
+0130,314911025,null,null,null,25,7,8.29,13070	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	La Magdalena
+0131,314659433,null,null,null,24,7,8.29,15460	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Revolucion
+0132,314301012,null,null,null,22,7,8.29,1600	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Merced Gomez
+0133,314298873,null,null,null,27,7,8.29,5030	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	San Pedro
+0134,314164068,null,null,null,27,7,8.29,7840	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	7 de Noviembre
+0135,314049773,null,null,null,22,10,8.28,13430	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Ampliacion Selene
+0136,314208346,null,null,null,25,10,8.28,7790	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Vallejo Poniente
+0137,314984657,null,null,null,19,4,8.27,10010	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	La Malinche
+0138,314226574,null,null,null,19,2,8.27,2830	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Barrio	San Bernabe
+0139,314526380,null,null,null,19,4,8.27,14734	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	El Zacaton
+0140,314645283,null,null,null,19,2,8.27,15210	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Valle Gomez
+0141,314020021,null,null,null,18,2,8.27,15340	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Venustiano Carranza
+0142,314825084,null,null,null,18,2,8.27,15370	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Progresista
+0143,314972283,null,null,null,18,2,8.27,6400	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Santa María la Ribera
+0144,314257408,null,null,null,18,2,8.27,13700	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Pueblo	San NicolAs Tetelco
+0145,314142392,null,null,null,20,4,8.27,1250	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ladera
+0146,314268854,null,null,null,18,2,8.27,1270	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Golondrinas 1a Seccion
+0147,314409328,null,null,null,18,2,8.27,4530	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Insurgentes Cuicuilco
+0148,314777432,null,null,null,19,4,8.27,1560	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Canutillo 2a Seccion
+0149,314975696,null,null,null,24,8,8.27,7640	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Santiago Atepetlac
+0150,314156873,null,null,null,20,4,8.27,7770	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ampliacion Panamericana
+0151,314502611,null,null,null,24,9,8.27,9850	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Juan Xalpa
+0152,314581970,null,null,null,27,9,8.27,9750	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	La Polvorilla
+0153,314314255,null,null,null,25,7,8.26,13530	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Jaime Torres Bodet
+0154,314409606,null,null,null,21,7,8.26,14749	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Chimilli
+0155,314290685,null,null,null,23,7,8.26,1770	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Angostura
+0156,314210329,null,null,null,21,7,8.26,5010	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Zentlapatl
+0157,314637690,null,null,null,25,10,8.26,16010	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Paseos del Sur
+0158,314432850,null,null,null,23,10,8.26,13450	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Guadalupe Tlaltenco
+0159,314579094,null,null,null,27,10,8.26,1407	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Galeana
+0160,314199201,null,null,null,21,5,8.26,11230	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Argentina Poniente
+0161,314840257,null,null,null,21,5,8.26,9709	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Lomas de Santa Cruz
+0162,314443269,null,null,null,22,9,8.25,9920	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Jose Lopez Portillo
+0163,314976043,null,null,null,24,8,8.25,15200	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Janitzio
+0164,314594319,null,null,null,22,9,8.25,15430	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Aquiles SerdAn
+0165,314040400,null,null,null,20,6,8.25,6350	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Buenavista
+0166,314878615,null,null,null,27,8,8.25,4460	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Avante
+0167,314890740,null,null,null,21,7,8.24,2810	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Ignacio Allende
+0168,314294151,null,null,null,22,7,8.24,1269	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	2a Seccion Cañada
+0169,314693063,null,null,null,21,7,8.24,1296	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Jalalpa Tepito
+0170,314707416,null,null,null,24,7,8.24,7770	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Panamericana
+0171,314790124,null,null,null,20,3,8.24,13400	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Pueblo	San Francisco Tlaltenco
+0172,314312229,null,null,null,27,9,8.23,7939	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Heroes de Chapultepec
+0173,314404608,null,null,null,22,9,8.23,9130	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Pueblo	San Lorenzo Xicotencatl
+0174,314088497,null,null,null,26,9,8.23,1859	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Tlacoyaque
+0175,314699136,null,null,null,24,9,8.23,2060	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Un Hogar Para Cada Trabajador
+0176,314031159,null,null,null,22,9,8.23,14140	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Fuentes del Pedregal
+0177,314022117,null,null,null,26,9,8.23,9670	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Palmitas
+0178,314102799,null,null,null,20,4,8.23,15339	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Ampliacion Venustiano Carranza
+0179,314843959,null,null,null,26,8,8.23,14267	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Barrio	De Caramagüey
+0180,314496731,null,null,null,26,8,8.23,7670	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Guadalupe Proletaria
+0181,314755654,null,null,null,20,5,8.22,8310	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	La Cruz
+0182,314544274,null,null,null,20,5,8.22,9310	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Leyes de Reforma 2a Seccion
+0183,314212457,null,null,null,20,5,8.22,14646	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Valle de Tepepan
+0184,314183020,null,null,null,20,5,8.22,14653	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Heroico Colegio Militar
+0185,314692524,null,null,null,21,5,8.22,13600	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	San Bartolome
+0186,314107543,null,null,null,23,10,8.22,14655	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Valle Verde
+0187,314922919,null,null,null,22,10,8.22,15410	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Simon Bolívar
+0188,314615742,null,null,null,22,7,8.21,7980	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Narciso Bassols
+0189,314435244,null,null,null,26,7,8.21,9140	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Santa Martha Acatitla Norte
+0190,314883872,null,null,null,25,7,8.21,14737	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Vistas del Pedregal
+0191,314634010,null,null,null,21,7,8.21,14049	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Comuneros de Santa Úrsula
+0192,314500520,null,null,null,22,7,8.21,14108	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Chichicaspatl
+0193,314771447,null,null,null,22,7,8.21,1250	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Margarita Maza de JuArez
+0194,314205404,null,null,null,23,7,8.21,4310	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Romero de Terreros
+0195,314511410,null,null,null,22,7,8.21,4470	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Presidentes Ejidales 2a Seccion
+0196,314105336,null,null,null,26,9,8.21,9100	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Juan Escutia
+0197,314487407,null,null,null,23,9,8.21,4320	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Cuadrante de San Francisco
+0198,314935544,null,null,null,24,9,8.21,1389	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Santa Fe Tlayapaca
+0199,314508526,null,null,null,27,9,8.21,5119	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Campestre Palo Alto
+0200,314280658,null,null,null,22,8,8.2,16000	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San Juan
+0201,314143633,null,null,null,27,8,8.2,6450	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Atlampa
+0202,314597929,null,null,null,27,8,8.2,14248	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Cruz del Farol
+0203,314230958,null,null,null,24,8,8.2,1410	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Palmas
+0204,314495515,null,null,null,25,10,8.2,1290	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Presidentes
+0205,314122985,null,null,null,25,10,8.2,7870	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Vallejo
+0206,314135141,null,null,null,27,9,8.19,16428	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	El Jazmín
+0207,314122344,null,null,null,20,6,8.19,9310	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Leyes de Reforma 3a Seccion
+0208,314988541,null,null,null,24,9,8.19,1750	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Las Aguilas 1a Seccion
+0209,314924882,null,null,null,25,9,8.19,2120	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	San Martín Xochinahuac
+0210,314571626,null,null,null,25,9,8.19,14100	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Pedregal de San NicolAs 3A Seccion
+0211,314454217,null,null,null,26,9,8.19,4330	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Pueblo	Los Reyes
+0212,314426715,null,null,null,21,5,8.19,8500	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Agrícola Oriental
+0213,314547295,null,null,null,20,5,8.19,2050	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	Santa María Malinalco
+0214,314660653,null,null,null,21,5,8.19,4940	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Los Sauces
+0215,314076011,null,null,null,21,7,8.18,7918	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Juan de Aragon VI Seccion
+0216,314111219,null,null,null,21,7,8.18,8730	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Gabriel Ramos MillAn
+0217,314219697,null,null,null,23,7,8.18,10620	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Potrerillo
+0218,314094864,null,null,null,21,7,8.18,9858	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Paraje San Juan Cerro
+0219,314131151,null,null,null,23,7,8.18,10350	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Lomas de San Bernabe
+0220,314592544,null,null,null,27,7,8.18,2990	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	La Raza
+0221,314133726,null,null,null,27,7,8.18,13099	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	San Andres
+0222,314113608,null,null,null,24,7,8.18,9010	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Real del Moral
+0223,314184327,null,null,null,23,7,8.18,1509	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Pueblo	Santa Lucía Chantepec
+0224,314691618,null,null,null,25,7,8.18,9708	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Mixcoatl
+0225,314693066,null,null,null,22,8,8.18,9000	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	San Lucas
+0226,314514461,null,null,null,18,2,8.18,14748	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Mirador I
+0227,314396159,null,null,null,18,2,8.18,15100	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Zona Centro
+0228,314434124,null,null,null,18,2,8.18,1750	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Las Aguilas 2o Parque
+0229,314103455,null,null,null,21,8,8.18,2250	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	Santa Catarina
+0230,314430711,null,null,null,18,2,8.18,2300	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Industrial Vallejo
+0231,314194695,null,null,null,18,2,8.18,6080	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Centro (Area 8)
+0232,314347782,null,null,null,19,2,8.18,14000	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Tlalpan Centro
+0233,314296534,null,null,null,19,4,8.18,4730	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Cantil del Pedregal
+0234,314849790,null,null,null,21,8,8.18,5020	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Loma del Padre
+0235,314732004,null,null,null,22,10,8.18,15980	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	24 de Abril
+0236,314914919,null,null,null,24,10,8.18,13540	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Tierra Blanca
+0237,314281935,null,null,null,23,10,8.18,1220	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Estrella
+0238,314634269,null,null,null,22,10,8.18,1340	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Bejero del Pueblo Santa Fe
+0239,314588963,null,null,null,24,10,8.18,1400	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Olivar del Conde 1a Seccion
+0240,314043648,null,null,null,27,10,8.18,1560	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Canutillo 3a Seccion
+0241,314060092,null,null,null,19,3,8.18,10910	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Pueblo	La Magdalena
+0242,314754399,null,null,null,19,3,8.18,9000	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	San Pablo
+0243,314118294,null,null,null,18,1,8.17,7890	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Nueva TenochtitlAn
+0244,314249701,null,null,null,18,1,8.17,9930	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	El Rosario
+0245,314061777,null,null,null,18,1,8.17,2860	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Tlatilco
+0246,314588385,null,null,null,27,9,8.17,3023	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Narvarte Oriente
+0247,314756728,null,null,null,18,1,8.17,13360	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Santa Ana Sur
+0248,314131449,null,null,null,18,1,8.17,14748	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Mirador II
+0249,314738694,null,null,null,27,9,8.17,2150	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Pasteros
+0250,314352177,null,null,null,18,1,8.17,5410	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Pueblo	San Lorenzo Acopilco
+0251,314670379,null,null,null,25,9,8.17,5760	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Las Lajas
+0252,314635097,null,null,null,18,1,8.17,1250	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Tecolalco
+0253,314624281,null,null,null,18,1,8.17,4400	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Educacion
+0254,314735887,null,null,null,18,1,8.17,4420	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Ex-Ejido de San Francisco CulhuacAn
+0255,314346086,null,null,null,26,9,8.17,1550	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Rinconada Las Cuevitas
+0256,314151814,null,null,null,25,9,8.17,7820	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Tres Estrellas
+0257,314165567,null,null,null,24,8,8.16,11000	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas de Chapultepec III Seccion
+0258,314654603,null,null,null,24,8,8.16,2730	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	San Francisco Tetecala
+0259,314857176,null,null,null,24,8,8.16,3100	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Insurgentes San Borja
+0260,314201371,null,null,null,23,8,8.16,13520	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Francisco Villa
+0261,314418687,null,null,null,23,8,8.16,1630	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de Puerta Grande
+0262,314794087,null,null,null,26,7,8.16,1750	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Las Aguilas 3er Parque
+0263,314696620,null,null,null,24,7,8.16,5610	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Pueblo	Santa Rosa Xochiac
+0264,314885922,null,null,null,21,7,8.16,4489	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion VII
+0265,314455481,null,null,null,20,6,8.16,10200	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	San Jeronimo Lídice
+0266,314965989,null,null,null,21,5,8.15,1538	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Tepopotla
+0267,314046961,null,null,null,21,5,8.15,9706	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Jose Buenavista
+0268,314624080,null,null,null,23,9,8.15,9860	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Parque Nacional Cerro de la Estrella
+0269,314235587,null,null,null,25,9,8.15,8830	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Militar Marte
+0270,314115799,null,null,null,23,9,8.15,15010	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Valentín Gomez Farias
+0271,314507908,null,null,null,23,9,8.15,1760	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Herradura del Pueblo Tetelpan
+0272,314845296,null,null,null,22,9,8.15,4370	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	AtlAntida
+0273,314718870,null,null,null,22,9,8.15,7880	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	MArtires de Río Blanco
+0274,314086688,null,null,null,22,10,8.14,10600	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	El Rosal
+0275,314821287,null,null,null,24,10,8.14,13094	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	San Isidro
+0276,314278319,null,null,null,22,10,8.14,13310	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Zapotitla
+0277,314967484,null,null,null,24,10,8.14,1820	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas Axomiatla
+0278,314877808,null,null,null,25,10,8.14,2060	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Sindicato Mexicano de Electricistas
+0279,314232553,null,null,null,25,10,8.14,2330	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Barrio	Huautla de las Salinas
+0280,314946953,null,null,null,24,10,8.14,13700	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Tepantitlamilco
+0281,314913534,null,null,null,22,10,8.14,4300	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Ajusco
+0282,314064321,null,null,null,19,4,8.14,2719	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Ampliacion San Pedro Xalpa
+0283,314339362,null,null,null,21,8,8.14,3010	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Atenor Salas
+0284,314028968,null,null,null,20,4,8.14,5400	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	El Tianguillo
+0285,314168238,null,null,null,19,4,8.14,6060	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Centro (Area 6)
+0286,314836199,null,null,null,25,8,8.14,6220	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Peralvillo
+0287,314924745,null,null,null,20,4,8.14,1610	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Profesor J. Arturo Lopez Martínez
+0288,314040843,null,null,null,20,4,8.14,7780	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Heroe de Nacozari
+0289,314167190,null,null,null,25,8,8.14,7850	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Bondojito
+0290,314991332,null,null,null,26,7,8.13,9840	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Pueblo	Los Reyes CulhuacAn
+0291,314159172,null,null,null,21,7,8.13,13060	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Santa Ana
+0292,314135051,null,null,null,23,7,8.13,4340	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Copilco El Bajo
+0293,314166833,null,null,null,23,7,8.13,4938	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Campestre CoyoacAn
+0294,314291689,null,null,null,22,7,8.13,7707	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Siete Maravillas
+0295,314221563,null,null,null,26,9,8.12,15650	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Ampliacion Caracol
+0296,314462541,null,null,null,20,6,8.12,6240	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Valle Gomez
+0297,314040732,null,null,null,22,9,8.12,4980	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Ex-Hacienda Coapa
+0298,314062347,null,null,null,25,9,8.12,7510	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Felipe de Jesús
+0299,314431064,null,null,null,25,10,8.12,10810	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	San Francisco
+0300,314538873,null,null,null,26,10,8.12,2130	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Tierra Nueva
+0301,314393461,null,null,null,24,10,8.12,1250	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de Nuevo Mexico
+0302,314681108,null,null,null,27,10,8.12,1276	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Pirul
+0303,314055723,null,null,null,22,10,8.12,1539	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Acuilotla
+0304,314357661,null,null,null,26,10,8.12,7550	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Providencia
+0305,314616352,null,null,null,20,3,8.12,4240	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Hermosillo
+0306,314423239,null,null,null,19,3,8.12,4800	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Alianza Popular Revolucionaria
+0307,314152865,null,null,null,19,3,8.12,9769	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	El TriAngulo
+0308,314937489,null,null,null,24,8,8.11,16420	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	San Jeronimo
+0309,314441554,null,null,null,22,8,8.11,2010	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	San Rafael
+0310,314235453,null,null,null,24,8,8.11,7600	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Progreso Nacional
+0311,314049071,null,null,null,20,5,8.11,14070	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Romulo SAnchez Mireles
+0312,314590401,null,null,null,20,5,8.11,5050	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Pueblo	San Pablo Chimalpa
+0313,314588255,null,null,null,23,7,8.11,9859	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Benito JuArez
+0314,314209404,null,null,null,22,7,8.11,2750	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	Santiago Ahuizotla
+0315,314535561,null,null,null,25,7,8.11,9240	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Progresista
+0316,314578419,null,null,null,22,7,8.11,1700	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	2a Del Moral del Pueblo Tetelpan
+0317,314528210,null,null,null,24,7,8.11,15830	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Artes GrAficas
+0318,314709963,null,null,null,23,7,8.11,2200	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Reynosa Tamaulipas
+0319,314320359,null,null,null,26,7,8.11,6270	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Maza
+0320,314736064,null,null,null,25,7,8.11,4730	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Bosques de Tetlameya
+0321,314354825,null,null,null,24,7,8.11,7740	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Valle del Tepeyac
+0322,314674364,null,null,null,22,9,8.1,15960	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Del Parque
+0323,314407412,null,null,null,27,9,8.1,16080	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San Diego
+0324,314507600,null,null,null,25,9,8.1,2810	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Victoria de las Democracias
+0325,314594842,null,null,null,25,9,8.1,2950	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Del Gas
+0326,314650429,null,null,null,23,9,8.1,9000	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	San Ignacio
+0327,314178976,null,null,null,27,9,8.1,2020	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Barrio	San Marcos
+0328,314389734,null,null,null,25,9,8.1,14100	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Pedregal de San NicolAs 5ª Seccion
+0329,314217010,null,null,null,23,9,8.1,14208	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Colinas del Ajusco
+0330,314253535,null,null,null,23,10,8.1,13093	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	San SebastiAn
+0331,314252049,null,null,null,22,10,8.1,1650	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Santa Lucía Chantepec
+0332,314711749,null,null,null,27,10,8.1,15320	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Azteca
+0333,314678358,null,null,null,24,10,8.1,2040	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	San SebastiAn
+0334,314712238,null,null,null,26,10,8.1,2459	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Tezozomoc
+0335,314649385,null,null,null,22,10,8.1,4909	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion IX-B
+0336,314561916,null,null,null,21,6,8.09,16034	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	18
+0337,314159915,null,null,null,22,8,8.09,16035	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Rinconada Coapa
+0338,314719147,null,null,null,23,8,8.09,11220	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Periodista
+0339,314180226,null,null,null,18,2,8.09,10340	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Los Padres
+0340,314440292,null,null,null,26,8,8.09,2700	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	San Miguel Amantla
+0341,314421213,null,null,null,18,2,8.09,2790	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Barrio	Santa Apolonia
+0342,314958505,null,null,null,27,8,8.09,9000	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	San Pedro
+0343,314276140,null,null,null,24,8,8.09,1708	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Encino del Pueblo Tetelpan
+0344,314861032,null,null,null,24,8,8.09,6720	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Doctores
+0345,314064432,null,null,null,25,8,8.09,14268	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Barrio	La Lonja
+0346,314740255,null,null,null,21,8,8.09,4380	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	El Rosario
+0347,314987167,null,null,null,20,4,8.09,4440	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion I
+0348,314026703,null,null,null,21,8,8.09,4800	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Los Cedros
+0349,314779921,null,null,null,19,2,8.09,4939	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion X
+0350,314219226,null,null,null,18,2,8.09,9770	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Puente Blanco
+0351,314895376,null,null,null,22,9,8.08,7910	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Juan de Aragon VII Seccion
+0352,314091463,null,null,null,24,9,8.08,1730	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Puente Colorado
+0353,314775314,null,null,null,24,9,8.08,5700	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Cruz Blanca
+0354,314358799,null,null,null,27,9,8.08,1550	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ampliacion Tepeaca
+0355,314205378,null,null,null,26,9,8.08,4909	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion VIII
+0356,314311528,null,null,null,27,9,8.08,4918	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Cafetales
+0357,314711860,null,null,null,25,9,8.08,5200	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	San Jose de los Cedros
+0358,314331607,null,null,null,25,10,8.08,16240	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Tlaxopan
+0359,314700683,null,null,null,24,10,8.08,11260	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	San Joaquín
+0360,314991038,null,null,null,26,10,8.08,9880	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	El Vergel
+0361,314317578,null,null,null,23,10,8.08,14710	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Pueblo	Santo Tomas Ajusco
+0362,314743235,null,null,null,22,10,8.08,6000	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Centro (Area 1)
+0363,314489603,null,null,null,22,10,8.08,4919	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Emiliano Zapata Fraccionamiento Popular
+0364,314118217,null,null,null,23,10,8.08,7730	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Montevideo
+0365,314136761,null,null,null,26,10,8.08,7830	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Gertrudis SAnchez 1a Seccion
+0366,314516413,null,null,null,22,7,8.08,10300	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Pueblo	San Bernabe Ocotepec
+0367,314536255,null,null,null,25,7,8.08,6700	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Roma Norte
+0368,314206603,null,null,null,26,7,8.08,1566	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Hueytlale
+0369,314280265,null,null,null,20,5,8.07,8400	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Granjas Mexico
+0370,314334588,null,null,null,20,5,8.07,9290	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Santa Cruz Meyehualco
+0371,314097900,null,null,null,21,5,8.07,15710	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Industrial Puerto Aereo
+0372,314682068,null,null,null,22,8,8.07,8100	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Agrícola PantitlAn
+0373,314541650,null,null,null,27,8,8.07,13120	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Santiago
+0374,314892963,null,null,null,23,8,8.07,9040	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Central de Abasto
+0375,314034661,null,null,null,26,8,8.07,2140	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Santa Ines
+0376,314952402,null,null,null,21,6,8.06,10370	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Palmas
+0377,314997336,null,null,null,26,9,8.06,10020	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Cuauhtemoc
+0378,314626486,null,null,null,20,6,8.06,2650	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Trabajadores de Hierro
+0379,314968307,null,null,null,22,9,8.06,13150	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	La Concepcion
+0380,314641381,null,null,null,21,6,8.06,13510	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	La Lupita
+0381,314398523,null,null,null,26,9,8.06,14700	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Pueblo	San Miguel Ajusco
+0382,314905642,null,null,null,20,6,8.06,6070	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Centro (Area 7)
+0383,314809830,null,null,null,27,9,8.06,14050	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Toriello Guerra
+0384,314671774,null,null,null,22,9,8.06,14219	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Equipamiento	Six Flags (Reino Aventura)
+0385,314704242,null,null,null,23,9,8.06,1275	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Villa Solidaridad
+0386,314544376,null,null,null,24,9,8.06,4369	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Pedregal de Santo Domingo
+0387,314069140,null,null,null,20,6,8.06,4640	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	El Reloj
+0388,314758070,null,null,null,25,10,8.06,2240	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Barrio	San Andres
+0389,314072688,null,null,null,25,10,8.06,14260	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Barrio	El Capulín
+0390,314655233,null,null,null,27,10,8.06,9690	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	IztlahuacAn
+0391,314605414,null,null,null,19,3,8.06,15000	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	General Ignacio Zaragoza
+0392,314683573,null,null,null,20,3,8.06,5000	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Cuajimalpa
+0393,314094210,null,null,null,24,7,8.05,13278	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Villa Centroamericana
+0394,314420579,null,null,null,27,7,8.05,9000	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	Santa BArbara
+0395,314602549,null,null,null,24,7,8.05,15630	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Caracol
+0396,314959446,null,null,null,23,7,8.05,5330	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Memetla
+0397,314030676,null,null,null,25,7,8.05,4260	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Barrio	San Francisco CulhuacAn Barrio de San Juan
+0398,314353030,null,null,null,26,7,8.05,1410	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Barrio Norte
+0399,314983563,null,null,null,23,7,8.05,7620	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Santa Rosa
+0400,314226584,null,null,null,24,7,8.05,7840	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Guadalupe Tepeyac
+0401,314597208,null,null,null,23,8,8.05,15860	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Pueblo	La Magdalena Mixiuhca
+0402,314641229,null,null,null,20,4,8.05,8200	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Viaducto Piedad
+0403,314414235,null,null,null,25,8,8.05,9960	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	La Planta
+0404,314263939,null,null,null,22,8,8.05,10000	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Lomas Quebradas
+0405,314173484,null,null,null,24,8,8.05,13300	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Santiago Centro
+0406,314677822,null,null,null,24,8,8.05,9250	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	La Regadera
+0407,314387459,null,null,null,24,8,8.05,1789	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Miguel Hidalgo
+0408,314850366,null,null,null,25,8,8.05,15700	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Federal
+0409,314986186,null,null,null,26,8,8.05,5520	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	La Venta
+0410,314260962,null,null,null,20,4,8.05,1299	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	1a Ampliacion Presidentes
+0411,314258365,null,null,null,22,8,8.05,4320	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Pedregal de San Francisco
+0412,314732266,null,null,null,19,4,8.05,4410	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Petrolera Taxqueña
+0413,314523849,null,null,null,25,8,8.05,1470	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Molino de Rosas
+0414,314584532,null,null,null,25,9,8.04,15309	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	5o Tramo 20 de Noviembre
+0415,314048690,null,null,null,24,9,8.04,1430	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Colina del Sur
+0416,314705209,null,null,null,25,10,8.04,16070	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	Santa Crucita
+0417,314159519,null,null,null,26,10,8.04,8700	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Juventino Rosas
+0418,314784627,null,null,null,25,10,8.04,9870	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	12 de Diciembre
+0419,314111123,null,null,null,24,10,8.04,3100	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Del Valle Centro
+0420,314803649,null,null,null,25,10,8.04,13360	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	La Conchita ZapotitlAn
+0421,314634130,null,null,null,25,10,8.04,2160	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	Santo Domingo
+0422,314937400,null,null,null,25,10,8.04,7869	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Belisario Domínguez
+0423,314845058,null,null,null,21,5,8.04,6050	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Centro (Area 5)
+0424,314604574,null,null,null,21,6,8.03,14609	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Las Tortolas
+0425,314002977,null,null,null,21,6,8.03,6100	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Hipodromo
+0426,314810789,null,null,null,25,7,8.03,2770	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	Santa Cruz Acayucan
+0427,314059858,null,null,null,23,7,8.03,2240	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	San Andres
+0428,314020044,null,null,null,23,7,8.03,14070	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Barrio	San Fernando
+0429,314132063,null,null,null,26,7,8.03,14120	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Rincon del Pedregal
+0430,314962119,null,null,null,24,7,8.03,4100	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Del Carmen
+0431,314725261,null,null,null,21,7,8.03,4630	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Adolfo Ruiz Cortínes
+0432,314384987,null,null,null,26,7,8.03,7650	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ampliacion Progreso Nacional
+0433,314878659,null,null,null,26,8,8.02,7919	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ex Ejido San Juan de Aragon Sector 32
+0434,314464709,null,null,null,27,8,8.02,14476	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	La Palma
+0435,314916348,null,null,null,23,8,8.02,15670	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Adolfo Lopez Mateos
+0436,314176630,null,null,null,24,8,8.02,1280	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Pocito
+0437,314872659,null,null,null,21,8,8.02,4390	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Huayamilpas
+0438,314277197,null,null,null,22,8,8.02,7860	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Tablas de San Agustín
+0439,314709935,null,null,null,24,9,8.02,9200	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Unidad Vicente Guerrero
+0440,314047746,null,null,null,25,9,8.02,14479	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Viveros CoatectlAn
+0441,314849222,null,null,null,23,9,8.02,6020	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Centro (Area 3)
+0442,314490648,null,null,null,22,9,8.02,13625	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Santa Cruz
+0443,314722398,null,null,null,23,9,8.02,14219	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Equipamiento	Parque Nacional Bosque del Pedregal
+0444,314019333,null,null,null,26,9,8.02,9720	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Francisco Villa
+0445,314281132,null,null,null,25,9,8.02,9780	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Año de JuArez
+0446,314018544,null,null,null,25,9,8.02,9780	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Lomas de San Lorenzo
+0447,314510575,null,null,null,26,10,8.02,2480	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Petrolera
+0448,314056338,null,null,null,26,10,8.02,8900	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	INFONAVIT Iztacalco
+0449,314136982,null,null,null,25,10,8.02,1259	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Mexicana 2a Ampliacion
+0450,314813040,null,null,null,26,9,8,16060	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	El Mirador
+0451,314154623,null,null,null,20,6,8,16300	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Pueblo	San Lucas Xochimanca
+0452,314644880,null,null,null,19,1,8,7900	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Cuchilla del Tesoro
+0453,314970210,null,null,null,18,1,8,8800	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Barrio	Santiago Sur
+0454,314695217,null,null,null,19,3,8,9868	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Juan Estrella
+0455,314672802,null,null,null,19,1,8,2710	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	San Pedro Xalpa
+0456,314125265,null,null,null,23,7,8,3020	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Narvarte Poniente
+0457,314270878,null,null,null,19,2,8,13450	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Ojo de Agua
+0458,314820481,null,null,null,19,1,8,13530	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	La Asuncion
+0459,314502415,null,null,null,22,7,8,13540	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	El Rosario
+0460,314153051,null,null,null,26,10,8,13550	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Potrero del Llano
+0461,314205581,null,null,null,18,1,8,8920	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Jardines Tecma
+0462,314471238,null,null,null,21,7,8,9209	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Renovacion
+0463,314733876,null,null,null,20,5,8,14600	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Valle Escondido
+0464,314538188,null,null,null,19,1,8,14657	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Tlalmille
+0465,314359278,null,null,null,24,10,8,14730	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Lomas de Cuilotepec
+0466,314089482,null,null,null,21,6,8,15270	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Morelos
+0467,314343385,null,null,null,24,8,8,1650	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Palmas Axotitla
+0468,314548263,null,null,null,22,9,8,15300	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	20 de Noviembre
+0469,314771696,null,null,null,20,6,8,15310	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Felipe Angeles
+0470,314411730,null,null,null,19,3,8,15530	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Moctezuma 2a Seccion
+0471,314189392,null,null,null,18,2,8,15730	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	4 Arboles
+0472,314627426,null,null,null,19,3,8,15820	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Lorenzo Boturini
+0473,314540212,null,null,null,18,1,8,5270	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Manzanastitla
+0474,314636034,null,null,null,20,4,8,5280	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Adolfo Lopez Mateos
+0475,314353965,null,null,null,18,2,8,5530	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Abdías García Soto
+0476,314090056,null,null,null,20,5,8,5780	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Agua Bendita
+0477,314744665,null,null,null,22,7,8,6030	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Tabacalera
+0478,314864363,null,null,null,24,10,8,6170	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Hipodromo Condesa
+0479,314854677,null,null,null,27,9,8,6280	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Felipe Pescador
+0480,314596993,null,null,null,18,2,8,14080	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Barrio	Del Niño Jesús
+0481,314497287,null,null,null,24,8,8,14239	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Los Encinos
+0482,314373458,null,null,null,26,8,8,14250	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Miguel Hidalgo 2A Seccion
+0483,314080257,null,null,null,18,2,8,14250	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Miguel Hidalgo 3A Seccion
+0484,314983105,null,null,null,18,1,8,14266	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Zacayucan Peña Pobre
+0485,314559186,null,null,null,19,1,8,1230	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Tlapechico
+0486,314710826,null,null,null,24,10,8,4260	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Barrio	San Francisco CulhuacAn Barrio de La Magdalena
+0487,314982001,null,null,null,19,3,8,1408	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Olivar del Conde 2a Seccion
+0488,314867290,null,null,null,19,2,8,1520	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ampliacion Los Pirules
+0489,314585778,null,null,null,27,7,8,1520	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Estado de Hidalgo
+0490,314695869,null,null,null,19,4,8,1540	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Llano Redondo
+0491,314711452,null,null,null,23,10,8,1560	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ave Real
+0492,314590347,null,null,null,25,10,8,1619	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Martinica
+0493,314428604,null,null,null,24,10,8,4660	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Joyas del Pedregal
+0494,314097318,null,null,null,23,10,8,4890	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Jardines de CoyoacAn
+0495,314008689,null,null,null,24,10,8,5118	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Granjas Palo Alto
+0496,314503220,null,null,null,27,9,8,5260	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Jesús del Monte
+0497,314244519,null,null,null,25,9,8,7630	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Jose de la Escalera
+0498,314096296,null,null,null,19,1,8,7890	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Cuchilla La Joya
+0499,314007772,null,null,null,18,2,8,9740	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Presidentes de Mexico
+0500,314534402,null,null,null,24,10,7.98,16040	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San Lorenzo
+0501,314422616,null,null,null,25,10,7.98,4929	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Las Campanas
+0502,314326925,null,null,null,26,10,7.98,7520	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	25 de Julio
+0503,314218227,null,null,null,24,9,7.98,13300	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Santa Ana Norte
+0504,314501771,null,null,null,23,9,7.98,15520	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Peñon de los Baños
+0505,314877394,null,null,null,24,8,7.98,8230	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Barrio	San Francisco Xicaltongo
+0506,314100632,null,null,null,21,8,7.98,10369	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Ampliacion Lomas de San Bernabe
+0507,314839809,null,null,null,26,8,7.98,2630	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Barrio	Coltongo
+0508,314316435,null,null,null,22,8,7.98,13120	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Ampliacion Santa Catarina
+0509,314058343,null,null,null,24,8,7.98,13220	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	La Nopalera
+0510,314649125,null,null,null,27,8,7.98,14040	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Pueblo Quieto
+0511,314895930,null,null,null,21,8,7.98,14160	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Popular Santa Teresa
+0512,314648353,null,null,null,23,8,7.98,1377	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Jalalpa El Grande
+0513,314402334,null,null,null,22,8,7.98,7760	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Magdalena de las Salinas
+0514,314497041,null,null,null,25,7,7.97,10710	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Santa Teresa
+0515,314972852,null,null,null,24,7,7.97,9850	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San NicolAs Tolentino
+0516,314943635,null,null,null,25,7,7.97,13440	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Zacatenco
+0517,314587817,null,null,null,24,7,7.97,14620	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Club de Golf Mexico
+0518,314794251,null,null,null,27,7,7.97,1760	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Atlamaya
+0519,314134082,null,null,null,27,7,7.97,2129	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Nueva España
+0520,314687117,null,null,null,27,7,7.97,14040	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Cantera Puente de Piedra
+0521,314311804,null,null,null,24,7,7.97,14240	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Lomas Hidalgo
+0522,314247397,null,null,null,23,7,7.97,14260	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Miguel Hidalgo 1A Seccion
+0523,314429757,null,null,null,23,7,7.97,1298	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ampliacion Piloto Adolfo Lopez Mateos
+0524,314755714,null,null,null,21,7,7.97,1530	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Corpus Christy
+0525,314229191,null,null,null,24,7,7.97,1618	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Arcos Centenario
+0526,314207624,null,null,null,21,6,7.97,2100	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	El Rosario
+0527,314090342,null,null,null,20,5,7.96,7920	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	El Olivo
+0528,314214743,null,null,null,20,5,7.96,8610	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Barrio	Zapotla
+0529,314365024,null,null,null,21,5,7.96,9960	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Allapetlalli
+0530,314564803,null,null,null,21,5,7.96,1296	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ampliacion Jalalpa
+0531,314272628,null,null,null,20,5,7.96,4710	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Olímpica
+0532,314471939,null,null,null,27,10,7.96,16090	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San Pedro
+0533,314795468,null,null,null,27,10,7.96,7969	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Juan de Aragon II Seccion
+0534,314116522,null,null,null,24,10,7.96,2680	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Potrero del Llano
+0535,314124178,null,null,null,27,10,7.96,14647	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Juventud Unida
+0536,314009097,null,null,null,24,10,7.96,1790	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de San Angel Inn
+0537,314912950,null,null,null,26,10,7.96,1857	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de Chamontoya
+0538,314846981,null,null,null,26,10,7.96,1290	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Piloto Adolfo Lopez Mateos
+0539,314368647,null,null,null,24,10,7.96,7820	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Aragon InguarAn
+0540,314538036,null,null,null,27,9,7.96,16030	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	La Noria
+0541,314071924,null,null,null,26,9,7.96,8010	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Ex-Ejido de La Magdalena Mixiuhca
+0542,314365746,null,null,null,27,9,7.96,2980	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Patrimonio Familiar
+0543,314253457,null,null,null,26,9,7.96,13250	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	La Turba
+0544,314650111,null,null,null,27,9,7.96,6140	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Condesa
+0545,314663129,null,null,null,27,9,7.96,13610	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Los Reyes
+0546,314868018,null,null,null,22,9,7.96,1540	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Balcones de Cehuayo
+0547,314612791,null,null,null,26,9,7.96,7889	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Emiliano Zapata
+0548,314523147,null,null,null,24,8,7.95,16070	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	El Rosario
+0549,314790711,null,null,null,21,8,7.95,10500	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Barrio San Francisco
+0550,314550742,null,null,null,20,4,7.95,10700	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Heroes de Padierna
+0551,314233046,null,null,null,20,4,7.95,9838	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Plan de Iguala
+0552,314183199,null,null,null,27,8,7.95,9839	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Ampliacion Paraje San Juan
+0553,314455427,null,null,null,20,4,7.95,9860	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Cerro de La Estrella
+0554,314009275,null,null,null,24,8,7.95,2519	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	El Jagüey
+0555,314323446,null,null,null,19,4,7.95,2940	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Porvenir
+0556,314129638,null,null,null,27,8,7.95,13508	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	La Soledad
+0557,314442118,null,null,null,24,8,7.95,14658	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Mirador del Valle
+0558,314292036,null,null,null,23,8,7.95,1710	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ampliacion Alpes
+0559,314052454,null,null,null,23,8,7.95,1870	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de los Cedros
+0560,314724489,null,null,null,19,4,7.95,2230	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	Santa BArbara
+0561,314834574,null,null,null,21,8,7.95,4040	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Parque San Andres
+0562,314366922,null,null,null,25,8,7.95,4490	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion Piloto
+0563,314213013,null,null,null,27,8,7.95,4739	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	El Caracol
+0564,314195714,null,null,null,27,8,7.95,4899	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	El Parque de CoyoacAn
+0565,314912904,null,null,null,23,8,7.95,5129	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Lomas del Chamizal
+0566,314985168,null,null,null,24,8,7.95,7800	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Industrial
+0567,314507694,null,null,null,25,8,7.95,7810	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Estrella
+0568,314780102,null,null,null,25,7,7.95,16310	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	La Cañada
+0569,314118409,null,null,null,22,7,7.95,8220	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Barrio	San Pedro
+0570,314581714,null,null,null,24,7,7.95,14647	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Rinconada El Mirador
+0571,314733144,null,null,null,26,7,7.95,2360	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Las Salinas
+0572,314162860,null,null,null,27,7,7.95,14010	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Parque del Pedregal
+0573,314911290,null,null,null,24,7,7.95,1260	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ampliacion La Mexicana
+0574,314979546,null,null,null,26,7,7.95,5110	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Cooperativa Palo Alto
+0575,314490793,null,null,null,25,7,7.95,5220	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Tepetongo
+0576,314077742,null,null,null,19,3,7.94,16020	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Pueblo	Santa María Tepepan
+0577,314125009,null,null,null,19,3,7.94,9030	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Paseos de Churubusco
+0578,314139850,null,null,null,20,3,7.94,15290	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	10 de Mayo
+0579,314967114,null,null,null,19,3,7.94,14220	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Cuchilla de Padierna
+0580,314305197,null,null,null,20,3,7.94,1549	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Dos Ríos del Pueblo Santa Lucía
+0581,314824579,null,null,null,24,10,7.94,8650	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Barrio	San Miguel
+0582,314729065,null,null,null,24,10,7.94,11000	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas de Chapultepec VII Seccion
+0583,314764825,null,null,null,27,10,7.94,1708	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Mirador del Pueblo Tetelpan
+0584,314647253,null,null,null,24,10,7.94,14209	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Torres de Padierna
+0585,314592417,null,null,null,27,10,7.94,1280	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Francisco Villa
+0586,314022411,null,null,null,22,10,7.94,1310	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	San Gabriel
+0587,314698968,null,null,null,25,10,7.94,4450	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	El Centinela
+0588,314031117,null,null,null,26,10,7.94,9790	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Pueblo	San Lorenzo Tezonco
+0589,314042519,null,null,null,21,6,7.94,10800	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	La Cruz
+0590,314288089,null,null,null,23,9,7.94,11200	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas Hermosa
+0591,314734206,null,null,null,24,9,7.94,2910	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Aldana
+0592,314075538,null,null,null,27,9,7.94,2980	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Arenal
+0593,314169385,null,null,null,20,6,7.94,1650	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Tlacuitlapa
+0594,314438976,null,null,null,26,9,7.94,5370	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Las Tinajas
+0595,314746722,null,null,null,25,9,7.94,13630	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	San Agustín
+0596,314387988,null,null,null,20,6,7.94,14210	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Jardines en la Montaña
+0597,314471190,null,null,null,24,9,7.94,4950	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	El Mirador
+0598,314664669,null,null,null,25,9,7.94,4960	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Villa Quietud
+0599,314473914,null,null,null,25,9,7.94,7530	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Campestre Aragon
+0600,314026865,null,null,null,25,9,7.94,9720	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	La Era
+0601,314989268,null,null,null,21,8,7.93,13080	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Los Reyes
+0602,314507091,null,null,null,27,8,7.93,13508	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	San Agustín
+0603,314337288,null,null,null,21,8,7.93,9089	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Unidad Modelo
+0604,314765796,null,null,null,24,8,7.93,14070	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	San Pedro Apostol
+0605,314262875,null,null,null,26,8,7.93,14200	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Heroes de Padierna
+0606,314484632,null,null,null,20,5,7.93,2640	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Monte Alto
+0607,314849901,null,null,null,21,5,7.93,3000	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Piedad Narvarte
+0608,314988343,null,null,null,22,7,7.92,14610	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Arenal Tepepan
+0609,314000360,null,null,null,26,7,7.92,1700	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	San Agustín del Pueblo Tetelpan
+0610,314505575,null,null,null,22,7,7.92,15680	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Arenal 2a Seccion
+0611,314939167,null,null,null,27,7,7.92,14000	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Tlalpan
+0612,314162694,null,null,null,23,7,7.92,1240	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Pueblo Nuevo
+0613,314115750,null,null,null,24,7,7.92,1270	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Tejocote
+0614,314224713,null,null,null,26,7,7.92,1376	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Santa Fe Peña Blanca
+0615,314857649,null,null,null,25,7,7.92,4360	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Copilco Universidad
+0616,314011804,null,null,null,23,7,7.92,4480	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion III
+0617,314682286,null,null,null,25,7,7.92,1419	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Minas Cristo Rey
+0618,314807965,null,null,null,26,7,7.92,1618	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ex-Hacienda de Tarango
+0619,314603117,null,null,null,23,10,7.92,9960	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	USCOVI
+0620,314537243,null,null,null,23,10,7.92,14100	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Pedregal de San NicolAs 4A Seccion
+0621,314837980,null,null,null,26,9,7.92,7899	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	La Malinche
+0622,314548858,null,null,null,22,9,7.92,2960	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	San Francisco Xocotitla
+0623,314390515,null,null,null,26,9,7.92,9060	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Sector Popular
+0624,314755916,null,null,null,26,9,7.92,1269	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	1a Seccion Cañada
+0625,314626618,null,null,null,25,9,7.92,1500	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Miguel Gaona Armenta
+0626,314955924,null,null,null,22,9,7.92,4980	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Viejo Ejido de Santa Úrsula Coapa
+0627,314166872,null,null,null,18,2,7.91,16036	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Equipamiento	Mercado de Flores Plantas y Hortalizas
+0628,314531021,null,null,null,19,2,7.91,7930	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Indeco
+0629,314089253,null,null,null,18,2,7.91,10640	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Pueblo Nuevo Alto
+0630,314835768,null,null,null,19,4,7.91,2900	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Aguilera
+0631,314097683,null,null,null,19,2,7.91,13549	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Peña Alta
+0632,314705065,null,null,null,19,2,7.91,9239	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Ejercito de Oriente Zona Peñon
+0633,314697213,null,null,null,26,8,7.91,14629	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	San Buenaventura
+0634,314987630,null,null,null,27,8,7.91,1700	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Tecalcapa del Pueblo Tetelpan
+0635,314935926,null,null,null,22,8,7.91,1807	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Rancho San Francisco Pueblo San Bartolo Ameyalco
+0636,314948466,null,null,null,18,2,7.91,15640	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Arenal 4a Seccion
+0637,314353000,null,null,null,21,8,7.91,5330	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Ampliacion el Yaqui
+0638,314678504,null,null,null,24,8,7.91,14060	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Peña Pobre
+0639,314453985,null,null,null,21,8,7.91,1230	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Campo de Tiro los Gamitos
+0640,314695067,null,null,null,18,2,7.91,1270	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Golondrinas 2a Seccion
+0641,314906227,null,null,null,19,2,7.91,1289	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Reacomodo El Cuernito
+0642,314519156,null,null,null,20,4,7.91,4260	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Barrio	San Francisco CulhuacAn Barrio de San Francisco
+0643,314979213,null,null,null,27,8,7.91,1400	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Preconcreto
+0644,314662737,null,null,null,23,8,7.91,4650	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Pueblo	Santa Úrsula Coapa
+0645,314002681,null,null,null,19,4,7.91,5219	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Granjas Navidad
+0646,314182315,null,null,null,25,8,7.91,9730	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Reforma Política
+0647,314680751,null,null,null,20,6,7.91,9970	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Valle de San Lorenzo
+0648,314781040,null,null,null,20,6,7.91,15240	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Michoacana
+0649,314970166,null,null,null,21,6,7.91,5030	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	La Manzanita
+0650,314211246,null,null,null,26,10,7.9,7920	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Juan de Aragon
+0651,314622764,null,null,null,26,10,7.9,7979	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Juan de Aragon IV Seccion
+0652,314516954,null,null,null,27,10,7.9,14720	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Belvedere Ajusco
+0653,314450732,null,null,null,26,10,7.9,15450	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	DamiAn Carmona
+0654,314495584,null,null,null,22,10,7.9,1239	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Huerta
+0655,314448176,null,null,null,24,10,7.9,7859	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ampliacion MArtires de Río Blanco
+0656,314316324,null,null,null,22,9,7.9,16400	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Pueblo	San Lorenzo Atemoaya
+0657,314528436,null,null,null,23,9,7.9,10900	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Pueblo	San NicolAs Totolapan
+0658,314576890,null,null,null,22,9,7.9,14647	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Movimiento Organizado de Tlalpan
+0659,314503672,null,null,null,23,9,7.9,2400	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	San Juan Tlihuaca
+0660,314991528,null,null,null,23,7,7.89,16030	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Ampliacion La Noria
+0661,314886560,null,null,null,26,7,7.89,7979	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Juan de Aragon V Seccion
+0662,314198098,null,null,null,27,7,7.89,8760	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	INPI Picos
+0663,314336768,null,null,null,26,7,7.89,9839	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Juan Joya
+0664,314182465,null,null,null,21,7,7.89,9870	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Pueblo	San Andres TomatlAn
+0665,314119850,null,null,null,24,7,7.89,13509	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	La Concepcion
+0666,314131418,null,null,null,23,7,7.89,9319	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Cuchilla del Moral
+0667,314702854,null,null,null,22,7,7.89,5600	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Pueblo	San Mateo Tlaltenango
+0668,314788750,null,null,null,25,7,7.89,4260	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Barrio	San Francisco CulhuacAn Barrio de Santa Ana
+0669,314748221,null,null,null,26,7,7.89,1540	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Cehuaya
+0670,314797324,null,null,null,27,7,7.89,7858	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ampliacion Emiliano Zapata
+0671,314758376,null,null,null,20,5,7.89,9350	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Albarrada
+0672,314675430,null,null,null,22,8,7.89,16035	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	San Lorenzo La Cebada
+0673,314032918,null,null,null,21,8,7.89,2970	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Ampliacion Del Gas
+0674,314950624,null,null,null,27,8,7.89,15220	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	NicolAs Bravo
+0675,314277341,null,null,null,21,8,7.89,15260	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Ampliacion 20 de Noviembre
+0676,314206139,null,null,null,25,8,7.89,1849	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Rancho del Carmen del Pueblo San Bartolo Ameyalco
+0677,314764951,null,null,null,26,8,7.89,1460	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Alfonso XIII
+0678,314242656,null,null,null,20,3,7.88,16080	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San Cristobal
+0679,314234607,null,null,null,20,3,7.88,8030	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Gabriel Ramos MillAn Seccion Cuchilla
+0680,314658408,null,null,null,19,3,7.88,2720	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	San Antonio
+0681,314748372,null,null,null,20,3,7.88,9220	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Unidad Ejercito Constitucionalista
+0682,314169659,null,null,null,19,3,7.88,7680	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ampliacion Guadalupe Proletaria
+0683,314862352,null,null,null,23,10,7.88,10130	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	El Maestro
+0684,314348437,null,null,null,25,10,7.88,2490	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Barrio	San Mateo
+0685,314302705,null,null,null,25,10,7.88,9320	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Sideral
+0686,314390170,null,null,null,27,10,7.88,2020	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Santo TomAs
+0687,314375084,null,null,null,23,10,7.88,6010	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Centro (Area 2)
+0688,314343655,null,null,null,27,10,7.88,6040	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Centro (Area 4)
+0689,314376551,null,null,null,27,10,7.88,1330	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Paseo de las Lomas
+0690,314619807,null,null,null,21,6,7.88,16070	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	La Guadalupita
+0691,314280467,null,null,null,20,6,7.88,7960	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Heroes de Cerro Prieto
+0692,314571638,null,null,null,24,9,7.88,10640	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	La Carbonera
+0693,314106265,null,null,null,25,9,7.88,8810	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Reforma Iztaccíhuatl Norte
+0694,314755170,null,null,null,26,9,7.88,14659	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	María Esther Zuno de Echeverría
+0695,314862557,null,null,null,26,9,7.88,15220	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Popular Rastro
+0696,314572673,null,null,null,26,9,7.88,15440	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	1° de Mayo
+0697,314396968,null,null,null,24,9,7.88,1863	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas del Capulín
+0698,314896031,null,null,null,22,9,7.88,5730	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Xalpa
+0699,314365889,null,null,null,26,9,7.88,5100	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Lomas de Vista Hermosa
+0700,314763255,null,null,null,21,7,7.87,7990	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	C.T.M. Aragon
+0701,314090425,null,null,null,25,7,7.87,1810	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Villa Verdún
+0702,314448249,null,null,null,25,7,7.87,14250	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Miguel Hidalgo
+0703,314930649,null,null,null,26,7,7.87,1320	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Carlos A. Madrazo
+0704,314379200,null,null,null,24,8,7.86,11040	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Molino del Rey
+0705,314606865,null,null,null,25,8,7.86,9969	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Cananea
+0706,314616188,null,null,null,21,8,7.86,1630	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Puerta Grande
+0707,314356605,null,null,null,21,8,7.86,15750	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Ampliacion Aviacion Civil
+0708,314453142,null,null,null,25,8,7.86,1299	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	2a Ampliacion Presidentes
+0709,314278608,null,null,null,22,8,7.86,4470	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Presidentes Ejidales 1a Seccion
+0710,314254481,null,null,null,23,8,7.86,1569	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Reacomodo Valentín Gomez Farías
+0711,314079882,null,null,null,22,10,7.86,5710	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Las Maromas
+0712,314394797,null,null,null,24,10,7.86,4318	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Barrio	Oxtopulco Universidad
+0713,314317270,null,null,null,26,10,7.86,1539	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Cooperativa Union Olivos
+0714,314309378,null,null,null,24,10,7.86,4840	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Ex-Ejido de San Pablo Tepetlapa
+0715,314485722,null,null,null,25,10,7.86,4980	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Ex-Ejido de Santa Úrsula Coapa
+0716,314256723,null,null,null,22,10,7.86,7790	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Guadalupe Victoria
+0717,314771859,null,null,null,26,9,7.85,10380	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Barros Sierra
+0718,314779145,null,null,null,22,9,7.85,2520	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Equipamiento	Estacion Pantaco
+0719,314036199,null,null,null,23,9,7.85,2840	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Obrero Popular
+0720,314094148,null,null,null,22,9,7.85,14500	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Pueblo	San Miguel Topilejo
+0721,314570842,null,null,null,22,9,7.85,1900	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Jardines del Pedregal
+0722,314336850,null,null,null,24,9,7.85,7780	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Defensores de La República
+0723,314463564,null,null,null,21,6,7.84,9960	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Celoalliotli
+0724,314101213,null,null,null,21,6,7.84,2600	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Pro-Hogar
+0725,314939128,null,null,null,21,6,7.84,13545	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Ampliacion La Conchita
+0726,314414262,null,null,null,21,6,7.84,5330	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Ampliacion Memetla
+0727,314477806,null,null,null,25,7,7.84,13300	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Santiago Norte
+0728,314160705,null,null,null,21,7,7.84,15660	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Arenal 3a Seccion
+0729,314293163,null,null,null,25,7,7.84,2080	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Sector Naval
+0730,314455023,null,null,null,23,7,7.84,4600	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Pedregal de Santa Úrsula
+0731,314778577,null,null,null,21,7,7.84,4810	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Prados de CoyoacAn
+0732,314415762,null,null,null,25,7,7.84,5240	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	El Molino
+0733,314389893,null,null,null,22,8,7.84,9860	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	El Rodeo
+0734,314703625,null,null,null,25,8,7.84,9940	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Jardines de San Lorenzo Tezonco
+0735,314483730,null,null,null,25,8,7.84,13070	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	San Miguel
+0736,314493971,null,null,null,24,8,7.84,13300	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Santa Ana Centro
+0737,314616442,null,null,null,25,8,7.84,2099	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Angel Zimbron
+0738,314240324,null,null,null,23,8,7.84,7850	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Faja de Oro
+0739,314876830,null,null,null,26,10,7.84,10660	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	El Ermitaño
+0740,314527793,null,null,null,26,10,7.84,11000	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas de Chapultepec II Seccion
+0741,314621675,null,null,null,18,1,7.83,8420	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Cuchilla Agrícola Oriental
+0742,314929076,null,null,null,18,1,7.83,9860	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Bellavista
+0743,314904151,null,null,null,18,1,7.83,9870	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Andres TomatlAn
+0744,314772119,null,null,null,18,1,7.83,9910	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	La Esperanza
+0745,314779336,null,null,null,27,9,7.83,9230	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Jose María Morelos y Pavon
+0746,314590908,null,null,null,19,1,7.83,14760	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Heroes de 1910
+0747,314561951,null,null,null,18,1,7.83,2420	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Ex-Hacienda El Rosario
+0748,314629893,null,null,null,18,1,7.83,5410	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	1° de Mayo
+0749,314322045,null,null,null,23,9,7.83,1296	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Jalalpa Tepito 2a Ampliacion
+0750,314753708,null,null,null,19,1,7.83,1520	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Politoco
+0751,314998081,null,null,null,24,9,7.83,7730	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Bartolo Atepehuacan
+0752,314888890,null,null,null,19,1,7.83,9710	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Los Angeles Apanoaya
+0753,314397989,null,null,null,20,3,7.82,6090	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Centro (Area 9)
+0754,314752289,null,null,null,19,3,7.82,1590	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Rincon
+0755,314230385,null,null,null,22,10,7.82,10820	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	La Guadalupe
+0756,314647145,null,null,null,27,10,7.82,9880	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Granjas Estrella
+0757,314371562,null,null,null,23,10,7.82,13315	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Ampliacion Zapotitla
+0758,314356481,null,null,null,26,10,7.82,1710	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Las Aguilas
+0759,314388911,null,null,null,25,10,7.82,5348	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Santa Fe Cuajimalpa
+0760,314529886,null,null,null,19,4,7.82,16210	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	La Concha
+0761,314016448,null,null,null,19,4,7.82,8710	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Tlazintla
+0762,314037537,null,null,null,21,8,7.82,9900	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	Guadalupe
+0763,314157342,null,null,null,19,2,7.82,13230	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Granjas Cabrera
+0764,314964008,null,null,null,19,4,7.82,13319	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	La Estacion
+0765,314271367,null,null,null,25,8,7.82,13410	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Lopez Portillo
+0766,314640666,null,null,null,19,4,7.82,13550	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Jardines del Llano
+0767,314643076,null,null,null,24,8,7.82,9230	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Ejercito de Oriente
+0768,314099487,null,null,null,26,8,7.82,9230	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	El Paraíso
+0769,314597693,null,null,null,18,2,7.82,15800	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Jamaica
+0770,314212008,null,null,null,20,4,7.82,2080	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Clavería
+0771,314122430,null,null,null,21,8,7.82,14240	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Lomas de Padierna
+0772,314194963,null,null,null,19,2,7.82,1259	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ampliacion La Cebada
+0773,314371162,null,null,null,19,2,7.82,4510	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Equipamiento	Universidad Nacional Autonoma de Mexico
+0774,314510607,null,null,null,19,4,7.82,4815	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Emiliano Zapata
+0775,314434228,null,null,null,21,7,7.82,16090	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Tablas de San Lorenzo
+0776,314017777,null,null,null,25,7,7.82,11000	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas de Chapultepec IV Seccion
+0777,314019018,null,null,null,24,7,7.82,14640	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Ejidos de San Pedro MArtir
+0778,314664900,null,null,null,24,7,7.82,1800	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Pueblo	San Bartolo Ameyalco
+0779,314631408,null,null,null,21,7,7.82,2090	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	San Alvaro
+0780,314014909,null,null,null,22,7,7.82,5310	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	El Molinito
+0781,314546597,null,null,null,24,7,7.82,4390	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Nueva Díaz Ordaz
+0782,314368408,null,null,null,22,7,7.82,1420	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Sacramento
+0783,314405141,null,null,null,22,9,7.81,16010	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Bosque Residencial del Sur
+0784,314013340,null,null,null,24,9,7.81,16090	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	Xaltocan
+0785,314361565,null,null,null,25,9,7.81,7940	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ex Ejido San Juan de Aragon Sector 33
+0786,314749951,null,null,null,22,9,7.81,10360	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Huayatla
+0787,314029679,null,null,null,21,6,7.81,14739	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	2 de Octubre
+0788,314258212,null,null,null,27,9,7.81,9750	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Insurgentes
+0789,314437943,null,null,null,25,10,7.8,2670	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Cosmopolita
+0790,314427799,null,null,null,25,10,7.8,15390	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	7 de Julio
+0791,314231102,null,null,null,23,10,7.8,1450	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Hogar y Redencion
+0792,314684197,null,null,null,24,10,7.8,1510	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Araña
+0793,314599625,null,null,null,23,10,7.8,7860	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	La Joyita
+0794,314483706,null,null,null,27,10,7.8,9750	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Las Peñas
+0795,314852842,null,null,null,25,8,7.8,13273	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	La Draga
+0796,314140523,null,null,null,22,8,7.8,15250	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Ampliacion Michoacana
+0797,314819240,null,null,null,27,8,7.8,7890	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	La Joya
+0798,314545473,null,null,null,27,9,7.79,11000	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas de Chapultepec VIII Seccion
+0799,314398651,null,null,null,26,9,7.79,1270	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Presa
+0800,314479359,null,null,null,24,9,7.79,4230	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Prado Churubusco
+0801,314290140,null,null,null,22,9,7.79,4890	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Los Olivos
+0802,314627306,null,null,null,21,7,7.79,10840	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Barrio	Plazuela del Pedregal
+0803,314265487,null,null,null,22,7,7.79,13100	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	La Guadalupe
+0804,314990696,null,null,null,24,7,7.79,6300	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Guerrero
+0805,314344762,null,null,null,22,7,7.79,4120	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	San Diego Churubusco
+0806,314727569,null,null,null,20,6,7.78,15640	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Arenal Puerto Aereo
+0807,314531954,null,null,null,24,10,7.78,13300	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Santa Ana Poniente
+0808,314869189,null,null,null,26,10,7.78,9260	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Constitucion de 1917
+0809,314602423,null,null,null,25,10,7.78,14200	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Jardines del Ajusco
+0810,314025854,null,null,null,26,10,7.78,7870	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Guadalupe Insurgentes
+0811,314716000,null,null,null,24,8,7.77,10920	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Las Huertas
+0812,314185604,null,null,null,20,4,7.77,15020	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Puebla
+0813,314862433,null,null,null,25,8,7.77,2010	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Barrio	Nuevo Barrio San Rafael
+0814,314088036,null,null,null,19,4,7.77,6600	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	JuArez
+0815,314268875,null,null,null,20,4,7.77,14100	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Pedregal de San NicolAs 1A Seccion
+0816,314227035,null,null,null,19,4,7.77,14250	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Miguel Hidalgo 4A Seccion
+0817,314380481,null,null,null,24,8,7.77,1260	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Palmita
+0818,314167049,null,null,null,20,4,7.77,5269	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Amado Nervo
+0819,314303569,null,null,null,25,8,7.77,9700	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Buenavista
+0820,314830462,null,null,null,26,9,7.77,15420	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Ampliacion Simon Bolívar
+0821,314807121,null,null,null,26,9,7.77,2470	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Ampliacion Petrolera
+0822,314184837,null,null,null,25,9,7.77,14220	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Lomas del Pedregal
+0823,314582532,null,null,null,22,9,7.77,4480	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion VI
+0824,314862501,null,null,null,20,3,7.76,14735	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Campamento	Lomas de Tepemecatl
+0825,314681374,null,null,null,19,3,7.76,1860	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de La Era
+0826,314883078,null,null,null,24,7,7.76,2128	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Nueva El Rosario
+0827,314938756,null,null,null,21,7,7.76,4440	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion V
+0828,314740528,null,null,null,24,7,7.76,1490	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Cascada
+0829,314920360,null,null,null,23,10,7.76,10379	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Vista Hermosa
+0830,314783847,null,null,null,27,10,7.76,1840	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Torres de Potrero
+0831,314818756,null,null,null,27,10,7.76,6200	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Morelos
+0832,314940941,null,null,null,24,10,7.76,4330	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Barrio	Del Niño Jesús
+0833,314554265,null,null,null,23,10,7.76,1480	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de Plateros
+0834,314668044,null,null,null,25,8,7.75,10378	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Atacaxco
+0835,314193064,null,null,null,21,6,7.75,10330	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Las Cruces
+0836,314175554,null,null,null,20,6,7.75,8840	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Reforma Iztaccíhuatl Sur
+0837,314534861,null,null,null,24,9,7.75,9000	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	San Jose
+0838,314905774,null,null,null,21,8,7.75,1740	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	San Clemente Sur
+0839,314887402,null,null,null,24,9,7.75,5750	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	La Pila
+0840,314275289,null,null,null,21,6,7.75,1285	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Rodeo
+0841,314829069,null,null,null,23,9,7.75,4610	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Xotepingo
+0842,314918594,null,null,null,23,9,7.75,1610	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Colinas de Tarango
+0843,314572046,null,null,null,26,9,7.75,9680	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Tenorios
+0844,314560443,null,null,null,21,6,7.75,9760	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Consejo Agrarista Mexicano
+0845,314545168,null,null,null,20,5,7.74,14080	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Belisario Domínguez Seccion XVI
+0846,314227259,null,null,null,25,10,7.74,1510	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Garcimarrero
+0847,314035632,null,null,null,26,7,7.74,11000	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas de Chapultepec VI Seccion
+0848,314186467,null,null,null,24,7,7.74,2920	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Ampliacion Cosmopolita
+0849,314656118,null,null,null,26,9,7.73,1904	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	San Jeronimo Aculco
+0850,314527345,null,null,null,22,9,7.73,2010	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Barrio	Los Reyes
+0851,314690233,null,null,null,19,4,7.73,16340	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Texmic
+0852,314891321,null,null,null,22,8,7.73,10580	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Barranca Seca
+0853,314011649,null,null,null,23,8,7.73,10830	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	La Concepcion
+0854,314117374,null,null,null,21,8,7.73,10926	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Campamento	Tierra Colorada
+0855,314167351,null,null,null,26,8,7.73,11100	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Equipamiento	Bosque de Chapultepec III Seccion
+0856,314156359,null,null,null,21,8,7.73,2630	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Coltongo
+0857,314746961,null,null,null,27,8,7.73,13200	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Miguel Hidalgo
+0858,314979491,null,null,null,19,4,7.73,14740	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Lomas de Padierna Sur
+0859,314084344,null,null,null,19,2,7.73,1640	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Heron Proal
+0860,314957549,null,null,null,25,8,7.73,15610	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Cuchilla PantitlAn
+0861,314471797,null,null,null,20,4,7.73,14020	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Villa Olímpica
+0862,314544528,null,null,null,19,2,7.73,1270	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Golondrinas
+0863,314870620,null,null,null,18,2,7.73,5120	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Bosques de las Lomas
+0864,314712902,null,null,null,21,8,7.73,7839	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Gertrudis SAnchez 2a Seccion
+0865,314668916,null,null,null,23,10,7.72,1376	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Santa Fe La Loma
+0866,314055443,null,null,null,21,6,7.72,2040	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Del Maestro
+0867,314691114,null,null,null,20,6,7.72,1540	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Punta de Cehuaya
+0868,314713868,null,null,null,24,7,7.71,10840	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Barrio	Las Calles
+0869,314432009,null,null,null,21,7,7.71,2780	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Plenitud
+0870,314342716,null,null,null,22,7,7.71,1280	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Arvide
+0871,314995320,null,null,null,21,7,7.71,9700	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Carlos Hank Gonzalez
+0872,314489953,null,null,null,20,3,7.71,2070	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Del Recreo
+0873,314902163,null,null,null,20,3,7.71,9660	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Citlalli
+0874,314744235,null,null,null,26,8,7.7,15380	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Escuela de Tiro
+0875,314166610,null,null,null,23,8,7.7,1520	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Piru Santa Lucía
+0876,314977379,null,null,null,21,5,7.7,9900	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	San Antonio
+0877,314751729,null,null,null,20,5,7.7,9180	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Ermita Zaragoza
+0878,314100623,null,null,null,21,5,7.7,9689	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Barranca de Guadalupe
+0879,314882089,null,null,null,27,10,7.7,1700	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Pueblo	Tetelpan
+0880,314316822,null,null,null,27,10,7.7,15810	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Merced Balbuena
+0881,314950336,null,null,null,24,9,7.69,8020	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Ampliacion Gabriel Ramos MillAn
+0882,314074290,null,null,null,21,6,7.69,8930	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Campamento 2 de Octubre
+0883,314462388,null,null,null,22,9,7.69,1770	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	San Jose del Olivar
+0884,314737923,null,null,null,24,7,7.68,8000	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Gabriel Ramos MillAn Seccion Bramadero
+0885,314912553,null,null,null,22,8,7.68,8320	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Fraccionamiento Coyuya
+0886,314139123,null,null,null,20,4,7.68,2530	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Jardín Azpeitia
+0887,314277330,null,null,null,19,4,7.68,1619	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Rinconada de Tarango
+0888,314481320,null,null,null,22,8,7.68,1230	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Piru 2a Ampliacion
+0889,314860934,null,null,null,24,10,7.68,16050	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Jardines del Sur
+0890,314172966,null,null,null,23,10,7.68,13280	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Agrícola Metropolitana
+0891,314328968,null,null,null,18,1,7.67,16410	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Lomas de Tonalco
+0892,314838965,null,null,null,19,1,7.67,2660	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Euzkadi
+0893,314189539,null,null,null,19,1,7.67,2760	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Barrio	Santa Lucía
+0894,314518017,null,null,null,18,1,7.67,9020	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Dr. Alfonso Ortiz Tirado
+0895,314170064,null,null,null,18,1,7.67,1700	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Joyita del Pueblo Tetelpan
+0896,314580813,null,null,null,19,1,7.67,1700	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ocotillos del Pueblo Tetelpan
+0897,314148020,null,null,null,19,1,7.67,1740	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Peñita del Pueblo Tetelpan
+0898,314779692,null,null,null,18,1,7.67,1780	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Olivar de los Padres
+0899,314115429,null,null,null,19,1,7.67,1849	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Rincon de la Bolsa
+0900,314360219,null,null,null,18,1,7.67,14150	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Lomas del Pedregal Framboyanes
+0901,314831178,null,null,null,19,1,7.67,7560	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ampliacion Providencia
+0902,314120772,null,null,null,18,1,7.67,9698	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Miguel de La Madrid Hurtado
+0903,314778531,null,null,null,18,1,7.67,9700	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Pueblo	Santa Cruz Meyehualco
+0904,314064667,null,null,null,23,10,7.66,5320	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	El Yaqui
+0905,314441630,null,null,null,26,8,7.66,9856	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Estado de Veracruz
+0906,314296987,null,null,null,27,8,7.66,9099	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Pueblo	Mexicaltzingo
+0907,314745620,null,null,null,21,8,7.66,1740	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	San Clemente Norte
+0908,314505180,null,null,null,24,8,7.66,14230	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Cultura Maya
+0909,314292967,null,null,null,25,7,7.66,15990	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Alvaro Obregon
+0910,314210719,null,null,null,24,7,7.66,10320	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	El Tanque
+0911,314685687,null,null,null,26,7,7.66,2000	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Centro de Azcapotzalco
+0912,314157154,null,null,null,20,6,7.66,1759	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ampliacion Las Aguilas
+0913,314572217,null,null,null,20,3,7.65,13210	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Los Olivos
+0914,314583321,null,null,null,25,9,7.65,16050	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Tierra Nueva
+0915,314884489,null,null,null,22,9,7.65,2720	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	San Bartolo Cahualtongo
+0916,314688777,null,null,null,27,9,7.65,1376	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Santa Fe Centro Ciudad
+0917,314893732,null,null,null,25,9,7.65,4200	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Campestre Churubusco
+0918,314100420,null,null,null,27,9,7.65,9704	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Degollado
+0919,314993669,null,null,null,24,10,7.64,9860	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Ampliacion Bellavista
+0920,314222776,null,null,null,24,10,7.64,10368	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Ampliacion Potrerillo
+0921,314830590,null,null,null,18,2,7.64,15870	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Aaron SAenz
+0922,314909599,null,null,null,20,4,7.64,16059	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Pblo. Stgo.Tepalcatlalpan, U. H. Rinconada del Sur
+0923,314183620,null,null,null,19,4,7.64,11240	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Ignacio Manuel Altamirano
+0924,314993531,null,null,null,22,8,7.64,13180	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	San Miguel
+0925,314723868,null,null,null,18,2,7.64,1830	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Pueblo	Santa Rosa Xochiac
+0926,314365859,null,null,null,20,4,7.64,15540	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Santa Cruz Aviacion
+0927,314810237,null,null,null,18,2,7.64,6430	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Santa María Insurgentes
+0928,314811976,null,null,null,20,4,7.64,6470	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	San Rafael
+0929,314492858,null,null,null,24,8,7.64,1420	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Barrio	Santa María Nonoalco
+0930,314189236,null,null,null,20,6,7.62,9960	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	El Molino Tezonco
+0931,314095441,null,null,null,21,6,7.62,14480	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Pueblo	La Magdalena Petlacalco
+0932,314687054,null,null,null,20,6,7.62,1620	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de Tarango
+0933,314258413,null,null,null,26,10,7.62,1279	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de Becerra
+0934,314647109,null,null,null,25,8,7.61,7540	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	La Esmeralda
+0935,314982569,null,null,null,21,7,7.61,6250	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Ex-Hipodromo de Peralvillo
+0936,314480285,null,null,null,22,9,7.6,5379	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Lomas de San Pedro
+0937,314824455,null,null,null,19,4,7.59,8600	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Barrio	La Asuncion
+0938,314023822,null,null,null,23,8,7.59,15470	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Miguel Hidalgo
+0939,314912724,null,null,null,19,4,7.59,4519	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	La Otra Banda
+0940,314319663,null,null,null,20,3,7.59,1729	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Alcantarilla
+0941,314478913,null,null,null,24,7,7.58,16030	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Huichapan
+0942,314981663,null,null,null,21,7,7.58,7750	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Nueva Vallejo
+0943,314399567,null,null,null,24,9,7.56,8770	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Los Picos de Iztacalco Seccion 1A
+0944,314760835,null,null,null,21,6,7.56,4210	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Churubusco Country Club
+0945,314994795,null,null,null,21,6,7.56,4910	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Carmen SerdAn
+0946,314080963,null,null,null,25,10,7.56,10610	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	El Toro
+0947,314715790,null,null,null,26,10,7.56,13460	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	El TriAngulo
+0948,314025672,null,null,null,20,5,7.56,16050	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San Marcos
+0949,314613963,null,null,null,20,5,7.56,14110	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Ampliacion Fuentes del Pedregal
+0950,314916766,null,null,null,25,7,7.55,14608	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Colinas del Bosque
+0951,314040216,null,null,null,18,2,7.55,16320	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	San Lucas Oriente
+0952,314469704,null,null,null,18,2,7.55,7970	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Juan de Aragon III Seccion
+0953,314431741,null,null,null,20,4,7.55,9870	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Pueblo	Santa María TomatlAn
+0954,314832080,null,null,null,20,4,7.55,9000	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	La Asuncion
+0955,314714923,null,null,null,19,4,7.55,4500	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Jardines del Pedregal de San Angel
+0956,314438811,null,null,null,18,2,7.55,7730	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Churubusco Tepeyac
+0957,314875970,null,null,null,18,2,7.55,7754	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Lindavista Vallejo III Seccion
+0958,314590338,null,null,null,25,9,7.54,15600	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Arenal 1a Seccion
+0959,314202938,null,null,null,20,3,7.53,2340	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Santa Cruz de las Salinas
+0960,314536978,null,null,null,21,7,7.53,4120	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	San Mateo
+0961,314381785,null,null,null,18,1,7.5,11000	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas de Chapultepec V Seccion
+0962,314008543,null,null,null,18,1,7.5,4370	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Ciudad Jardín
+0963,314348995,null,null,null,18,1,7.5,4480	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion X-A
+0964,314567333,null,null,null,23,7,7.5,4970	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Haciendas de CoyoacAn
+0965,314329231,null,null,null,19,1,7.5,7700	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Nueva Industrial Vallejo
+0966,314854226,null,null,null,19,3,7.47,16040	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	La Asuncion
+0967,314087428,null,null,null,20,3,7.47,11000	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas de Chapultepec I Seccion
+0968,314047324,null,null,null,20,3,7.47,9897	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Carlos Jonguitud Barrios
+0969,314228776,null,null,null,18,2,7.45,1650	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Milagrosa
+0970,314790295,null,null,null,18,2,7.45,15740	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Aviacion Civil
+0971,314909788,null,null,null,19,2,7.45,1550	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Tepeaca
+0972,314845776,null,null,null,18,2,7.45,7570	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Villa de Aragon
+0973,314145645,null,null,null,26,7,7.45,15850	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Magdalena Mixiuhca
+0974,314173443,null,null,null,24,9,7.44,14738	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Bosques del Pedregal
+0975,314376904,null,null,null,23,8,7.43,7708	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Torres Lindavista
+0976,314861466,null,null,null,27,7,7.42,8510	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	El Rodeo
+0977,314398989,null,null,null,27,7,7.42,2760	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Industrial San Antonio
+0978,314971816,null,null,null,22,7,7.42,5230	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	El ebano
+0979,314723755,null,null,null,25,10,7.42,8040	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Carlos Zapata Vela
+0980,314108372,null,null,null,20,3,7.41,9310	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Leyes de Reforma 1a Seccion
+0981,314112870,null,null,null,20,4,7.36,14643	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Fuentes de Tepepan
+0982,314584261,null,null,null,27,8,7.36,1270	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de Capula
+0983,314399777,null,null,null,18,2,7.36,4620	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Pueblo	San Pablo Tepetlapa
+0984,314778330,null,null,null,18,1,7.33,16000	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	La Concepcion Tlacoapa
+0985,314363384,null,null,null,18,1,7.33,10400	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	San Jeronimo Aculco
+0986,314265779,null,null,null,18,1,7.33,14490	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Pueblo	San Miguel Xicalco
+0987,314447687,null,null,null,18,1,7.33,14650	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Pueblo	San Pedro MArtir
+0988,314513128,null,null,null,18,1,7.33,5360	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Locaxco
+0989,314539800,null,null,null,19,1,7.33,4330	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	El Rosedal
+0990,314030756,null,null,null,24,8,7.3,2310	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Ferrería
+0991,314078570,null,null,null,20,3,7.24,14039	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Ampliacion Isidro Fabela
+0992,314095741,null,null,null,18,1,7.17,1230	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Los Gamitos
+0993,314545836,null,null,null,19,1,7.17,1520	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ampliacion Estado de Hidalgo
+0994,314839018,null,null,null,18,2,7.09,8210	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Nueva Santa Anita
+0995,314092913,null,null,null,19,1,7,16038	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Ampliacion San Marcos Norte
+0996,314044363,null,null,null,18,1,7,2870	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	San Salvador Xochimanca
+0997,314775336,null,null,null,19,1,6.83,16070	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	Belen
+0998,314176131,null,null,null,19,1,6.83,4920	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Los Girasoles
+0999,314447800,null,null,null,18,1,6.67,1260	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Mexicana
+1000,314370595,null,null,null,18,2,6.55,7720	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Lindavista Vallejo I Seccion
